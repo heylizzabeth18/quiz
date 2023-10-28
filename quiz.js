@@ -1,38 +1,38 @@
 const quizData = [
     {
-        question: "1. How old is Elizabeth?",
-        a: '10',
-        b: '17',
-        c: '19',
-        d: '110',
+        question: "1. Which southern Italian city is usually credited as the birthplace of the pizza?",
+        a: 'Vatican',
+        b: 'Rome',
+        c: 'Naples',
+        d: 'Beijing',
         correct: 'c'
     },{
-        question: "2. What is the most used programming language in 2019?",
-        a: 'Java',
-        b: 'c',
-        c: 'Python',
-        d: 'JavaScript',
+        question: "2. Who is the first African-American disney princess?",
+        a: 'Anna',
+        b: 'Ariel',
+        c: 'Merida',
+        d: 'Tiana',
         correct: 'd'
     },{
-        question: "3. Who is the President of U.S?",
-        a: 'Florin pop',
-        b: 'Joe Biden',
-        c: 'Ivan Saldano',
-        d: 'Mihal Andrej',
+        question: "3. Which planet has the most moons?",
+        a: 'Mercury',
+        b: 'Saturn',
+        c: 'Earth',
+        d: 'Jupiter',
         correct: 'b'
     },{
-        question: "4. What does HTML stand for?",
-        a: 'HyperText MarkUp Language',
-        b: 'Cascading Style Sheet',
-        c: 'JavaScript Object Notation',
-        d: 'Helicopters Terminals Motorboats Lamborginis',
+        question: "4. With over 222 million units sold, what is Apple's highest-selling iPhone model?",
+        a: 'iPhone 6 Plus',
+        b: 'iPhone XR',
+        c: 'iPhone 1',
+        d: 'iPhone 12',
         correct: 'a'
     },{
-        question: "5. What year was JavaScript launched?",
-        a: '1996',
-        b: '1995',
-        c: '1994',
-        d: 'none of the above',
+        question: "5. Name the actor who plays the role of Wednesday Addams in Wednesday?",
+        a: 'Sienna Augudong',
+        b: 'Jenna Ortega',
+        c: 'Lizzy Greene',
+        d: 'Riele Downs',
         correct: 'b'
     }
 ];
